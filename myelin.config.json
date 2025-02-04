@@ -4,6 +4,17 @@
   "locale": {
     "location": "locales",
     "sourceLanguage": "en",
-    "targetLanguages": ["es", "fr", "zh", "ko", "ar", "fa", "ru", "ur"]
+    "targetLanguages": [
+      "es",
+      "fr",
+      "zh",
+      "ko",
+      "ar",
+      "fa",
+      "ru",
+      "ur",
+      "hi",
+      "ro"
+    ]
   }
 }
